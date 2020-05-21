@@ -14,7 +14,7 @@ interface Repository {
   full_name: string;
   description: string;
   stargazers_count: number;
-  forks_counts: number;
+  forks_count: number;
   open_issues_count: number;
   owner: {
     login: string;
@@ -38,6 +38,7 @@ const Repository: React.FC = () => {
   useEffect(() => {
     api.get(`repos/${params.repository}`).then((response) => {
       setRepository(response.data);
+      console.log(response.data);
     });
 
     api.get(`repos/${params.repository}/issues`).then((response) => {
@@ -81,7 +82,7 @@ const Repository: React.FC = () => {
             </li>
 
             <li>
-              <strong> {repository.forks_counts}</strong>
+              <strong> {repository.forks_count}</strong>
               <span>Forks</span>
             </li>
 
