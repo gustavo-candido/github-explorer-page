@@ -22,22 +22,15 @@ Just type `yarn start`
 
 
 ## :checkered_flag: Goals ##
-
-
+<h3 align="center"> 
+   Find your github repositories and search issues
+</h3>
+  
 <p align="center"> 
-<img  height=300 width=400 src="https://github.com/gustavo-candido/github-explorer-page/blob/master/gifs/Empty.gif">
-</p>
-
-
-<p align="center"> 
-<img  height=300 width=400  src="https://github.com/gustavo-candido/github-explorer-page/blob/master/gifs/NotFInd.gif">
+<img  height="80%" width="80%"  src="https://github.com/gustavo-candido/github-explorer-page/blob/master/gifs/Okay.gif">
 </p>
 
 <p align="center"> 
-<img  height=300 width=400  src="https://github.com/gustavo-candido/github-explorer-page/blob/master/gifs/Okay.gif">
-</p>
-
-<p align="center"> 
-<img  height=300 width=400  src="https://github.com/gustavo-candido/github-explorer-page/blob/master/gifs/issues.gif">
+<img  height="80%" width="80%"  src="https://github.com/gustavo-candido/github-explorer-page/blob/master/gifs/issues.gif">
 </p>
 
