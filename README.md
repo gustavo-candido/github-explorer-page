@@ -25,19 +25,19 @@ Just type `yarn start`
 
 
 <p align="center"> 
-<img  height=300 width=400 src="https://github.com/gustavo-candido/github-explorer-page/blob/master/empty-input%20(2).gif">
+<img  height=300 width=400 src="https://github.com/gustavo-candido/github-explorer-page/blob/master/gifs/Empty.gif">
 </p>
 
 
 <p align="center"> 
-<img  height=300 width=400  src="https://github.com/gustavo-candido/github-explorer-page/blob/master/wrong-repository%20(1).gif">
+<img  height=300 width=400  src="https://github.com/gustavo-candido/github-explorer-page/blob/master/gifs/NotFInd.gif">
 </p>
 
 <p align="center"> 
-<img  height=300 width=400  src="https://github.com/gustavo-candido/github-explorer-page/blob/master/valid%20(1).gif">
+<img  height=300 width=400  src="https://github.com/gustavo-candido/github-explorer-page/blob/master/gifs/Okay.gif">
 </p>
 
 <p align="center"> 
-<img  height=300 width=400  src="https://github.com/gustavo-candido/github-explorer-page/blob/master/issues%20(1).gif">
+<img  height=300 width=400  src="https://github.com/gustavo-candido/github-explorer-page/blob/master/gifs/issues.gif">
 </p>
 
